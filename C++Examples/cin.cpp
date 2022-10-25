@@ -57,7 +57,7 @@ int main()
   area = height * width;
   cout << height << " x " << width << " = " << area << endl;
   
-
+cout<<"Tarif is pro";
   // clear the input stream of any characters (e.g. a newline)
   cin.ignore(1000, '\n');
   
